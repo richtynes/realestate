@@ -1,0 +1,8 @@
+*.swp
+*.swo
+.env
+
+vendor
+/wp-content/plugins/*
+/wp-content/uploads
+/wp-content/upgrade
